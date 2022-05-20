@@ -1,16 +1,11 @@
 # api_practice_demo_albums
 
-A new Flutter project.
+This is a demo api integration with clean architecture.
 
-## Getting Started
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/169024696-e781c6fd-2467-42ac-9d0f-1fc7b3aa3f2c.jpg" >
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
