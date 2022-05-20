@@ -6,6 +6,6 @@ This is a demo api integration with clean architecture.
   <img 
     width=40%
     height=40%
-    src="https://user-images.githubusercontent.com/101565812/169024696-e781c6fd-2467-42ac-9d0f-1fc7b3aa3f2c.jpg" >
+    src="https://user-images.githubusercontent.com/101565812/169487751-6bd120ee-b080-43b0-aafa-3a86dc91012f.jpg" >
 </p>
 
