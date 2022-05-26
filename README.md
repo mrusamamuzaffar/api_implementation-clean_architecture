@@ -1,4 +1,4 @@
-# api_practice_demo_albums-flutter
+# api implementation using clean architecture - flutter
 
 This is a demo api integration with clean architecture.
 
