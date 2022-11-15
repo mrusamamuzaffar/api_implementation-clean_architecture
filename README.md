@@ -2,6 +2,10 @@
 
 This is a demo api integration with clean architecture.
 
+✔️ Sound NullSafety
+
+## Screenshot
+
 <p align="center">
   <img 
     width=40%
